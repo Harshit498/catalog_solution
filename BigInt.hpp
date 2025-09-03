@@ -1331,7 +1331,7 @@ std::tuple<BigInt, BigInt> divide(const BigInt& dividend, const BigInt& divisor)
 }
 
 
-/*
+/* mkb inki ma ki
     BigInt / BigInt
     ---------------
     Computes the quotient of two BigInts using the long-division method.
